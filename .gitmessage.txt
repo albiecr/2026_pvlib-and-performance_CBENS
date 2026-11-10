@@ -1,0 +1,25 @@
+
+# ── Escreva a mensagem na 1ª linha acima ─────────────────────────
+# Formato:  <tipo>(<área>): <ação no presente>
+#
+# Tipos:
+#   feat   = algo novo (função, notebook, análise)
+#   fix    = correção de erro
+#   docs   = documentação (README, comentários)
+#   study  = exercício ou estudo
+#   chore  = manutenção (requirements, organização de pastas)
+#
+# Área (opcional): 01, 02, A1, estudos, funcao3...
+#
+# Exemplos:
+#   study(funcao3): refaz exercício de get_clearsky
+#   fix(A1): corrige caminho do arquivo NSRDB
+#   docs(estudos): adiciona README
+#
+# Regras:
+#   - português, verbo no presente (adiciona, corrige, refaz)
+#   - 1ª linha com até ~60 caracteres
+#   - se quiser detalhar: deixe uma linha em branco e escreva abaixo
+#
+# Linhas que começam com # são ignoradas pelo Git.
+# Para CANCELAR o commit: apague tudo, salve e feche.
